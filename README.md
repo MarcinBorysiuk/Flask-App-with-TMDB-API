@@ -16,4 +16,4 @@ How to use:<br />
 
 Or check this app on heroku <a href="https://tmdbapiflaskapp.herokuapp.com/">here</a><br />
 
-![](staticfiles/images/screen.png)
+![](images/screen.png)
