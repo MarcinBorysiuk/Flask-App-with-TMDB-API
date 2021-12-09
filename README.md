@@ -15,6 +15,6 @@ How to use:<br />
 -Linux: export TMDB_API_TOKEN="your api token"<br />
 - run command 'python main.py' to start a server<br /><br />
 
-Or check this app on heroku <a href="https://tmdbapiflaskapp.herokuapp.com/">here</a><br />
+Or check this app on heroku <a href="https://tmdbapiflaskapp.herokuapp.com/">here</a><br /><br />
 
 ![](images/screen.png)
