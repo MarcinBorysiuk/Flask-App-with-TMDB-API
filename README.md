@@ -12,7 +12,8 @@ How to use:<br />
 - register on <a href="https://www.themoviedb.org/">themoviedb</a><br /> and request your API Read Access Token(v4 auth)
 - run this command to set an enviroment variable:<br />
 -Windows: set TMDB_API_TOKEN="your api token"<br />
--Linux: export TMDB_API_TOKEN="your api token"<br /><br />
+-Linux: export TMDB_API_TOKEN="your api token"<br />
+- run command 'python main.py' to start a server<br /><br />
 
 Or check this app on heroku <a href="https://tmdbapiflaskapp.herokuapp.com/">here</a><br />
 
