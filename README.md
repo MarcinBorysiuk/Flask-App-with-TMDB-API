@@ -9,7 +9,7 @@ There is also possibility to add movies to your favourites.<br /><br />
 How to use:<br />
 - clone this repository<br />
 - run command: pip install -r requirements.txt<br />
-- register on <a href="https://www.themoviedb.org/">themoviedb</a><br /> and request your API Read Access Token(v4 auth)
+- register on <a href="https://www.themoviedb.org/">themoviedb</a><br /> and request your API Read Access Token(v4 auth) in API section
 - run this command to set an enviroment variable:<br />
 -Windows: set TMDB_API_TOKEN="your api token"<br />
 -Linux: export TMDB_API_TOKEN="your api token"<br />
