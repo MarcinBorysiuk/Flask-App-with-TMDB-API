@@ -5,6 +5,8 @@ charset-normalizer==2.0.9
 click==8.0.3
 colorama==0.4.4
 Flask==2.0.2
+Flask-SQLAlchemy==2.5.1
+greenlet==1.1.2
 gunicorn==20.1.0
 idna==3.3
 iniconfig==1.1.1
@@ -17,6 +19,7 @@ py==1.11.0
 pyparsing==3.0.6
 pytest==6.2.5
 requests==2.26.0
+SQLAlchemy==1.4.28
 toml==0.10.2
 urllib3==1.26.7
 Werkzeug==2.0.2
