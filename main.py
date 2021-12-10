@@ -63,7 +63,6 @@ def favourite_movies():
         movies = []
         for movie_id in FAVOURITES:
             movie_details = tmdb_client.get_single_movie(movie_id)
-            movie_details['star'] = 1
             movies.append(movie_details)
     else:
         movies = []
